@@ -1,2 +1,2 @@
-num = 1
-print(num)
+num1 = 1
+print(num1)
