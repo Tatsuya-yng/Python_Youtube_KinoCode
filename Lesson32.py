@@ -1,3 +1,6 @@
+# -*- coding: UTF-8
+# テスト結果を判定するプログラム
+
 class Student:
 
     def __init__(self,name):
@@ -27,3 +30,6 @@ result = a001.jedge(avg)
 
 print(avg)
 print(a001.name+""+result)
+
+# -*- coding: UTF-8
+# テスト結果を判定するプログラム
